@@ -1,6 +1,19 @@
 # M5 - Entrega 3 - Catalago de Carros API
 
 Está documentação servirá de base para entrega, todas as rotas deverão se comportar assim como está previsto na documentação abaixo:
+### Testes
+
+Unitário
+
+```json
+ npm run test:unit
+```
+
+Integração
+
+```json
+ npm run test:routes
+```
 
 ### Criação de carros POST /cars
 
