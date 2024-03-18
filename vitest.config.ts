@@ -5,7 +5,5 @@ export default defineConfig({
       environment: "node",
       setupFiles: ["./src/tests/setupFiles.ts"],
       threads: false,
-
-      // ...
    },
 });
